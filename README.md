@@ -37,6 +37,8 @@ Java(Spring Boot), Node.js, Express, Python, Django, React, Vue 등 **다양한 
 
 ## 주요 사업 이력
 
+### 포스코 A&C BI(프로젝트 이슈대상) AWS 기반 (Glue, Redshift, QuickSight) 구축 PM
+### Opensanctions 국제 테러, 범죄자 제재 리스트 정보 제공 Python 크롤링, API 개발
 ### 디지탈 대성 Paffy 서비스 B2B 모듈 개발 AA, Common (AWS, API GW, 람다)
 ### 국비 교육 과정 NCS 2등급 클라우드 네이티브, AI IaaS 기반 구축 교육 및 프로젝트 지도
 ### Himec 엔지니어링 회사 온프레미스 환경의 클라우드 전환 컨설팅
