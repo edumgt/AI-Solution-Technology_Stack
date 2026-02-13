@@ -36,7 +36,7 @@ Java(Spring Boot), Node.js(Express), Python(Django/Flask), React/Vue 등 다양�
 ### LLM 연동 API 설계, RAG(벡터DB/검색 연동) 기반 지식검색형 서비스 설계
 ### 모델 서빙/운영 관점: 배포 파이프라인, 모니터링/로그/비용 최적화, 권한/보안 설계
 
-## 기타: WebRTC, STUN/TURN/MediaServer, Jira/Confluence 협업, eGovFrame, LMS/LCMS, SSO, OAuth2.0
+## 기타: WebRTC, STUN/TURN/MediaServer, Jira/Confluence 컨설팅, eGovFrame, LMS/LCMS, SSO, OAuth2.0
 
 ## 🔩 주요 역할
 
@@ -127,7 +127,7 @@ Java(Spring Boot), Node.js(Express), Python(Django/Flask), React/Vue 등 다양�
 | 2010 | 국립공주대학교 | 원격교육연수원 | LMS/LCMS |
 | 2010 | 한국반도체산업협회 | 아랍에미리트 칼리파대학 | 시스템 구축 |
 | 2010 | 국립공주대학교 | 사이버영재교육원 | 렉토라 연동 |
-| 2009 | 글로벌에듀케이션 | 출강강의 관리 | B2B 협업 |
+| 2009 | 글로벌에듀케이션 | 출강강의 관리 | B2B 컨설팅 |
 | 2009 | 대구 호산고등학교 | 이러닝 구축 | Java/Oracle |
 | 2009 | SFA | 사이버연수원 | 사내이러닝 |
 | 2009 | 글로벌제우스 | 사이버연수원/사내교육 | 사내이러닝/모바일 |
@@ -139,9 +139,9 @@ Java(Spring Boot), Node.js(Express), Python(Django/Flask), React/Vue 등 다양�
 | 2009 | 위더스평생교육원 | 학점은행 LMS 연동 | CDMS |
 | 2008 | (주)코리아폴리스쿨 | SCORM LCMS | 컨설팅/구축 |
 | 2008 | 서강대 SLP | LMS 리뉴얼 | ERP |
-| 2008 | 서울사이버대학교 | 노후생애설계 | 협업 |
+| 2008 | 서울사이버대학교 | 노후생애설계 | 컨설팅 |
 | 2008 | (주)패스온 | 학점은행 튜닝 | DB 튜닝 |
-| 2008 | 문화관광부 | 독서아카데미 | 협업 |
+| 2008 | 문화관광부 | 독서아카데미 | 컨설팅 |
 | 2007 | (주)LeCast | 신학대학 이러닝 | 툴 기술전수 |
 | 2007 | (주)노아테크놀로지 | 대학용 LMS/LCMS | SCORM 기술전수 |
 | 2007 | 디딤돌(주) | 블로그 기반 이러닝 | .NET |
@@ -152,7 +152,7 @@ Java(Spring Boot), Node.js(Express), Python(Django/Flask), React/Vue 등 다양�
 | 2004 | (주)드림하이드로 | LMS 엔진 제공 | C#, MSSQL |
 | 2004 | (주)로앤비 | 부동산 교육 | C#, MSSQL |
 | 2004 | 중국청도승미교육 | 온라인교육 | Java, Spring, Hibernate, iBatis |
-| 2004 | 국립국어원 | U-세종학당 | 협업 |
+| 2004 | 국립국어원 | U-세종학당 | 컨설팅 |
 | 2003 | (주)휴넷 | SCORM 2004 인증/LCMS | Adopter 인증 |
 | 2003 | (주)사이버빌 | SCORM LCMS 구축 | LMS 연동 |
 | 2003 | 대한불교조계종 | 디지털대 LMS | Linux 최적화 |
