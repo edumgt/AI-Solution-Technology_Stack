@@ -167,4 +167,5 @@ Java(Spring Boot), Node.js(Express), Python(Django/Flask), React/Vue 등 다양�
 
 #### 1996년 ~ 1998년
 > KCC 정보기술교육센터 주임 강사로 C언어, 오라클, 솔라리스 유닉스, 네트웍 강의
+
 > 3군 사령부 내부 네트웍 망 구축 사업 참여
