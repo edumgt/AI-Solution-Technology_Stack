@@ -1,7 +1,7 @@
 ## 👨‍💼 전문가 이력 요약
 
 - kimdypm@gmail.com / 010-2387-5836
-- 동국대학교 컴퓨터공학 석사, 컴퓨터공학 박사과정 1년
+- 동국대학교 컴퓨터공학 석사, 컴퓨터공학 박사과정 1년 ( PL, 인공지능 전공 )
 
 **시스템 아키텍트 및 기술 PM(Tech Lead)**으로서 20년 이상의 경력을 바탕으로 교육, 플랫폼, 공공기관, 대기업 업무 시스템의 **설계·개발·운영 전반(End-to-End)**을 주도해왔습니다.  
 Java(Spring Boot), Node.js(Express), Python(Django/Flask), React/Vue 등 다양한 기술 스택에 능하며, **MSA(Spring Cloud, Kafka, Gateway, Jenkins)** 및 **AWS(EKS/ECS/CodeSeries), Azure DevOps** 기반 **CI/CD·자동화·운영**까지 폭넓은 클라우드 환경에서 구축 경험을 보유하고 있습니다.
