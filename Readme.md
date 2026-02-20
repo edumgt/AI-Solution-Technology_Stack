@@ -2,9 +2,6 @@
 **Lex · Rekognition · Textract · Bedrock · Kendra · Lambda 기반**  
 **OCR/문서자동화 · PDF 출력물 · QRCode · 고객사별 AI Agent 제작**
 
-- 작성일: 2026-02-08
-- 문서 버전: v1.0
-
 ---
 
 ## 1. 개요(Executive Summary)
