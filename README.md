@@ -12,6 +12,8 @@
 .
 ├── README.md                          ← 현재 문서 (메인 인덱스)
 ├── labs/
+│   ├── csp-ai-serving/                ← AWS·Azure·GCP AI 서빙 시작 가이드
+│   │   └── README.md
 │   ├── aws/                           ← AWS AI 솔루션 Labs
 │   │   ├── README.md                  ← AWS Labs 개요
 │   │   ├── lab01-lex-conversational-ai/
@@ -40,6 +42,14 @@
 │   └── assets/                        ← PDF 등 첨부 자료
 ├── i18n/                              ← 다국어 번역 (EN, JA, ZH)
 ```
+
+---
+
+## 🚀 멀티 CSP AI 시스템 서빙 시작하기
+
+AWS, Azure, Google Cloud에서 AI 시스템을 시작하기 위한 계정 생성, 결제·예산 통제, AI 리소스 선택, CLI 설치, 보안·운영 체크리스트를 제공합니다.
+
+> 📘 [AWS · Azure · Google Cloud AI 시스템 서빙 시작 가이드](./labs/csp-ai-serving/README.md)
 
 ---
 
